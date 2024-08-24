@@ -4,18 +4,6 @@
 
 This project implements a Convolutional Neural Network (CNN) for the classification of retinal diseases using a dataset of retinal images. The model is built with TensorFlow and Keras and aims to assist in the diagnosis of various retinal conditions.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 This project focuses on developing a deep learning model to classify retinal diseases based on images. The CNN model is trained to predict multiple disease risks including Diabetic Retinopathy (DR), Age-related Macular Degeneration (ARMD), and others.
