@@ -27,7 +27,9 @@ To run this project, ensure you have Python 3.6 or later installed.
 
 ## Results
 
-The model achieved an accuracy of 100% on both the test and evaluation datasets. The training history can be visualized to analyze the performance over epochs.
+TThe model achieved an accuracy of **100%** on both the test and evaluation datasets. However, please note that this model is still in preparation, and testing accuracy may differ as further optimizations and evaluations are conducted. 
+
+The training history can be visualized to analyze the performance over epochs.
 
 ![Training History](accuracy_loss_plot.png)
 
